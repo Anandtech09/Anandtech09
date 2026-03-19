@@ -1,102 +1,108 @@
-# Hi there, I'm Anand C 👋
+# 🚀 Anand C | Full-Stack AI Architect
 
-### AI/ML Engineer · Full Stack Developer · Agentic AI Builder
+### **Synthesizing Agentic Workflows with Production-Grade Web Systems**
 
-I build production-grade AI systems — RAG pipelines, multi-agent workflows, semantic search engines, and LLM-powered applications — and ship them end-to-end with full-stack development across React, Next.js, Vue, and Angular.
+\<p align="left"\>
+\<a href="[https://www.linkedin.com/in/anandctech09/](https://www.linkedin.com/in/anandctech09/)"\>\<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" alt="LinkedIn"\>\</a\>
+\<a href="mailto:canandtech09@gmail.com"\>\<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite)" alt="Email"\>\</a\>
+\<a href="[https://github.com/Anandtech09](https://github.com/Anandtech09)"\>\<img src="[https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/GitHub-121011%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite)" alt="GitHub"\>\</a\>
+\</p\>
 
-Currently working at **Nuvae.ai** on AI-powered insurance contract processing platforms.  
-Previously at **AOT Technologies**, building AI systems for Canadian healthcare, government, and legal clients.
+-----
 
----
+## ⚡ Executive Summary
 
-## 🤖 What I Build
+I bridge the gap between **Complex AI Research** and **Scalable Software Products**. Currently at **Nuvae.ai**, I architect production-grade RAG pipelines and multi-agent systems. My DNA is a mix of Physics, Software Engineering, and Machine Learning.
 
-- **RAG Pipelines** — PDF ingestion → chunking → embeddings → vector retrieval → LLM generation
-- **Agentic AI Systems** — multi-agent workflows with CrewAI, LangGraph, and SmolAgents
-- **Semantic Search** — Pinecone, ChromaDB, BERT-based embeddings (all-mpnet-base-v2)
-- **LLM Integration** — OpenAI, Groq (LLaMA 3.1 70B), Gemini, Anthropic
-- **Computer Vision** — YOLO v8 fine-tuning, Donut Transformer, PaddleOCR
-- **Full Stack Apps** — React, Next.js, Angular 18, Vue.js + FastAPI / Node.js backends
+  * **Current Focus:** Agentic Workflows (CrewAI/LangGraph) & Insurance Tech.
+  * **Past Impact:** GovTech & HealthTech solutions for the **BC Government** and **OSCAR EMR**.
+  * **Motto:** If it can be documented, it can be automated.
 
----
+-----
 
-## 🛠️ Tech Stack
+## 🛠️ The Tech Ecosystem
 
-**AI / ML**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+### **🤖 AI / ML & Orchestration**
 
-**Vector DBs & Search**  
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+> *Building the "Intelligence" layer.*
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+\<p align="left"\>
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite)" /\>
+\<img src="[https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)" /\>
+\<img src="[https://img.shields.io/badge/LangChain-121011?style=flat-square\&logo=chainlink\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LangChain-121011%3Fstyle%3Dflat-square%26logo%3Dchainlink%26logoColor%3Dwhite)" /\>
+\<img src="[https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)" /\>
+\<img src="[https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)" /\>
+\<img src="[https://img.shields.io/badge/Pinecone-000000?style=flat-square\&logo=pinecone\&logoColor=white](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)" /\>
+\</p\>
 
-**Backend & APIs**  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+### **💻 Full-Stack Development**
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP_BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
+> *Building the "Production" layer.*
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+\<p align="left"\>
+\<img src="[https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-3178C6%3Fstyle%3Dflat-square%26logo%3Dtypescript%26logoColor%3Dwhite)" /\>
+\<img src="[https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)" /\>
+\<img src="[https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)" /\>
+\<img src="[https://img.shields.io/badge/FastAPI-005571?style=flat-square\&logo=fastapi\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-005571%3Fstyle%3Dflat-square%26logo%3Dfastapi%26logoColor%3Dwhite)" /\>
+\<img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Fstyle%3Dflat-square%26logo%3Dpostgresql%26logoColor%3Dwhite)" /\>
+\<img src="[https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite)" /\>
+\</p\>
 
-**Workflow Orchestration**  
-![Temporal](https://img.shields.io/badge/Temporal.io-000000?style=flat-square&logoColor=white)
-![Inngest](https://img.shields.io/badge/Inngest-7C3AED?style=flat-square&logoColor=white)
+-----
 
----
+## 🌟 High-Impact Projects
 
-## 🚀 Featured Projects
+### 🏥 **Healthcare Multi-Agent Automation**
 
-| Project | Stack | Description |
-|---|---|---|
-| 🏥 **Healthcare Multi-Agent Automation** | CrewAI · LangChain · FastAPI · Docker | Multi-agent system for hospital document ingestion, classification, and OSCAR EMR mapping |
-| 📄 **Insurance RAG System** | ChromaDB · LLaMA 3.1 70B · all-mpnet-base-v2 | End-to-end RAG pipeline for semantic querying over insurance policy documents |
-| 🤖 **FormDeployer — Agentic Forms Generator** | CrewAI · Google API · Python | Converts natural language into fully structured Google Forms via multi-agent orchestration |
-| 🏠 **Bangalore House Price Prediction** | Scikit-learn · Flask · Python | ML regression model with full data pipeline deployed as a REST API |
-| 💻 **DSA Learning Platform with AI** | React · WebSockets · Gemini API | Real-time AI-powered coding platform with group chat and complexity analysis |
+> **Goal:** Automate hospital document ingestion for Canadian EMR systems.
 
----
+  * **The Build:** A CrewAI-driven system that classifies, extracts, and maps unstructured data to OSCAR EMR.
+  * **Tech:** CrewAI • LangChain • FastAPI • Docker
+
+### 🛡️ **Insurance RAG Ecosystem**
+
+> **Goal:** Semantic querying over complex insurance contract platforms.
+
+  * **The Build:** End-to-end RAG pipeline using `all-mpnet-base-v2` embeddings and ChromaDB.
+  * **Tech:** Llama 3.1 • ChromaDB • Python • React
+
+### 📝 **FormDeployer (Agentic Forms)**
+
+> **Goal:** Conversational Form generation.
+
+  * **The Build:** An agent that takes natural language requirements and deploys live Google Forms.
+  * **Tech:** Python • Google API • Agentic Orchestration
+
+-----
 
 ## 💼 Experience
 
-**Product Engineer** @ [Nuvae.ai](https://nuvae.ai) *(Oct 2025 – Jan 2026)*  
-AI-powered insurance platform — RAG pipelines, semantic search, LLM integrations, workflow orchestration
+| Role | Company | Period | Focus |
+| :--- | :--- | :--- | :--- |
+| **Product Engineer** | **Nuvae.ai** | 2025 - Present | AI Insurance Platforms, Temporal workflows. |
+| **Software Engineer** | **AOT Technologies** | 2024 - 2025 | BC Govt AI POCs, Vision, HealthTech AI. |
 
-**Software Engineer — AI/ML & Full Stack** @ AOT Technologies *(Feb 2024 – Sep 2025)*  
-Built AI systems for BC Government (Canada), Canadian healthcare (OSCAR EMR), and legal clients — YOLO v8 fine-tuning, RAG pipelines, Pinecone, multi-agent systems, AWS SageMaker deployment
+-----
 
----
+## 📊 Analytics & Impact
 
-## 📊 GitHub Stats
+\<p align="left"\>
+\<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Anandtech09\&show\_icons=true\&theme=tokyonight\&include\_all\_commits=true\&count\_private=true](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAnandtech09%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue)" /\>
+\<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Anandtech09\&layout=compact\&theme=tokyonight](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAnandtech09%26layout%3Dcompact%26theme%3Dtokyonight)" /\>
+\</p\>
 
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anandtech09&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandtech09&theme=dark&hide_border=true&layout=compact)
+-----
 
----
+## 🌐 Get in Touch
 
-## 🌐 Connect
+  * 📍 **Based in:** Kerala, India (Working Globally 🌍)
+  * 🔭 **Currently Learning:** Advanced Multi-Agent debate architectures & Vector DB optimization.
+  * 💬 **Ask me about:** Why Physics makes better Software Engineers.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandctech09/)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Anandtech09)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:canandtech09@gmail.com)
+-----
+
+\<p align="center"\>
+\<img src="[https://capsule-render.vercel.app/api?type=waving\&color=auto\&height=100\&section=footer](https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dauto%26height%3D100%26section%3Dfooter)" width="100%"/\>
+\</p\>
+
+-----
