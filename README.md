@@ -1,24 +1,102 @@
-# 💫 About Me:
-<br>### About Me 🚀  <br>Hi there! 👋 I'm a passionate **Vue.js developer** with expertise in **Firebase** and **Node.js**. I enjoy building scalable, modular web applications with clean and maintainable code.  <br><br>#### What I Do  <br>- Develop robust front-end solutions with **Vue.js (v2 & v5)**.  <br>- Integrate back-end services using **Node.js** and Firebase (Firestore, Realtime DB, Storage).  <br>- Build user-friendly and secure authentication systems with tools like **Clio** and **Firebase Auth**.  <br>- Optimize deployment processes for smooth user experiences.  <br><br>#### Tech Stack  <br>- **Languages**: JavaScript (ES6+), HTML5, CSS3, SCSS  <br>- **Frameworks/Libraries**: Vue.js, BootstrapVue, react, angular, typescript, <br>- **Backend**: Node.js, Firebase Functions  , django, python<br>- **Tools**: Git, Webpack, Axios, Vite  <br>- **Other Skills**: Firebase Hosting, Cloud Functions, Realtime DB, Analytics  <br><br>#### Current Interests  <br>- Developing intuitive UI/UX with efficient state management.  <br>- Exploring the integration of **quantum mechanics and quantum computing concepts** into software.  <br><br>Feel free to explore my repositories or connect with me to discuss ideas and collaborations! 😊  <br><br>---
+# Hi there, I'm Anand C 👋
 
+### AI/ML Engineer · Full Stack Developer · Agentic AI Builder
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandctech09/) 
+I build production-grade AI systems — RAG pipelines, multi-agent workflows, semantic search engines, and LLM-powered applications — and ship them end-to-end with full-stack development across React, Next.js, Vue, and Angular.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anandtech09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anandtech09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandtech09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anandtech09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anandtech09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Currently working at **Nuvae.ai** on AI-powered insurance contract processing platforms.  
+Previously at **AOT Technologies**, building AI systems for Canadian healthcare, government, and legal clients.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anandtech09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤖 What I Build
+
+- **RAG Pipelines** — PDF ingestion → chunking → embeddings → vector retrieval → LLM generation
+- **Agentic AI Systems** — multi-agent workflows with CrewAI, LangGraph, and SmolAgents
+- **Semantic Search** — Pinecone, ChromaDB, BERT-based embeddings (all-mpnet-base-v2)
+- **LLM Integration** — OpenAI, Groq (LLaMA 3.1 70B), Gemini, Anthropic
+- **Computer Vision** — YOLO v8 fine-tuning, Donut Transformer, PaddleOCR
+- **Full Stack Apps** — React, Next.js, Angular 18, Vue.js + FastAPI / Node.js backends
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / ML**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+
+**Vector DBs & Search**  
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & APIs**  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP_BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Workflow Orchestration**  
+![Temporal](https://img.shields.io/badge/Temporal.io-000000?style=flat-square&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-7C3AED?style=flat-square&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| 🏥 **Healthcare Multi-Agent Automation** | CrewAI · LangChain · FastAPI · Docker | Multi-agent system for hospital document ingestion, classification, and OSCAR EMR mapping |
+| 📄 **Insurance RAG System** | ChromaDB · LLaMA 3.1 70B · all-mpnet-base-v2 | End-to-end RAG pipeline for semantic querying over insurance policy documents |
+| 🤖 **FormDeployer — Agentic Forms Generator** | CrewAI · Google API · Python | Converts natural language into fully structured Google Forms via multi-agent orchestration |
+| 🏠 **Bangalore House Price Prediction** | Scikit-learn · Flask · Python | ML regression model with full data pipeline deployed as a REST API |
+| 💻 **DSA Learning Platform with AI** | React · WebSockets · Gemini API | Real-time AI-powered coding platform with group chat and complexity analysis |
+
+---
+
+## 💼 Experience
+
+**Product Engineer** @ [Nuvae.ai](https://nuvae.ai) *(Oct 2025 – Jan 2026)*  
+AI-powered insurance platform — RAG pipelines, semantic search, LLM integrations, workflow orchestration
+
+**Software Engineer — AI/ML & Full Stack** @ AOT Technologies *(Feb 2024 – Sep 2025)*  
+Built AI systems for BC Government (Canada), Canadian healthcare (OSCAR EMR), and legal clients — YOLO v8 fine-tuning, RAG pipelines, Pinecone, multi-agent systems, AWS SageMaker deployment
+
+---
+
+## 📊 GitHub Stats
+
+![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anandtech09&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandtech09&theme=dark&hide_border=true&layout=compact)
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandctech09/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Anandtech09)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:canandtech09@gmail.com)
