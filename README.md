@@ -150,8 +150,6 @@ class AnandC:
 
 ## 💼 Work Experience
 
-<div align="center">
-
 ```
 > [!NOTE]
 > ### 🏢 Nuvae.ai — `Oct 2025 – Jan 2026`
@@ -169,8 +167,6 @@ class AnandC:
 > - AWS SageMaker model deployment, GCP BigQuery data pipelines
 > - Led 3-member ML team · 1000+ monthly doc queries automated
 ```
-
-</div>
 
 ---
 
