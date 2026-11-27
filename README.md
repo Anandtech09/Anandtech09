@@ -150,14 +150,12 @@ class AnandC:
 
 ## 💼 Work Experience
 
-[!NOTE]
 ### 🏢 Nuvae.ai — `Oct 2025 – Jan 2026`
 **📌 Product Engineer** | *Trivandrum / Remote*
 - AI-powered insurance contract processing with RAG pipelines
 - Semantic search, LLM integration, Inngest workflow orchestration
 - 40% faster user workflows via smart caching & optimized components
 
-[!TIP]
 ### 🏢 AOT Technologies — `Feb 2024 – Sep 2025`
 **📌 Software Engineer — AI/ML & Full Stack** | *Trivandrum, India*
 - YOLO v8 + PaddleOCR fine-tuning for BC Government (Canada)
