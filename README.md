@@ -154,8 +154,8 @@ class AnandC:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│  🏢  Nuvae.ai                              Oct 2025 – Jan 2026          │
-│  📌  Product Engineer                      Trivandrum / Remote           │
+ │  🏢  Nuvae.ai                              Oct 2025 – Jan 2026         │
+ │  📌  Product Engineer                      Trivandrum / Remote         │
 │                                                                          │
 │  • AI-powered insurance contract processing with RAG pipelines          │
 │  • Semantic search, LLM integration, Inngest workflow orchestration     │
