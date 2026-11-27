@@ -153,10 +153,10 @@ class AnandC:
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
+ ┌────────────────────────────────────────────────────────────────────────┐
  │  🏢  Nuvae.ai                              Oct 2025 – Jan 2026         │
  │  📌  Product Engineer                      Trivandrum / Remote         │
-│                                                                          │
+ │                                                                        │
 │  • AI-powered insurance contract processing with RAG pipelines          │
 │  • Semantic search, LLM integration, Inngest workflow orchestration     │
 │  • 40% faster user workflows via smart caching & optimized components   │
@@ -166,11 +166,11 @@ class AnandC:
 │  🏢  AOT Technologies                      Feb 2024 – Sep 2025          │
 │  📌  Software Engineer — AI/ML & Full Stack  Trivandrum, India          │
 │                                                                          │
-│  • YOLO v8 + PaddleOCR fine-tuning for BC Government (Canada)          │
-│  • RAG pipelines with ChromaDB, Pinecone & LLaMA 3.1 70B              │
-│  • Multi-agent systems with CrewAI + Temporal.io → OSCAR EMR mapping   │
+│   • YOLO v8 + PaddleOCR fine-tuning for BC Government (Canada)          │
+│   • RAG pipelines with ChromaDB, Pinecone & LLaMA 3.1 70B              │
+│   • Multi-agent systems with CrewAI + Temporal.io → OSCAR EMR mapping   │
 │  • AWS SageMaker model deployment, GCP BigQuery data pipelines          │
-│  • Led 3-member ML team · 1000+ monthly doc queries automated          │
+│   • Led 3-member ML team · 1000+ monthly doc queries automated          │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
